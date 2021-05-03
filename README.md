@@ -1,5 +1,5 @@
 # vaccineChecker
-Find vaccine availablity in your district using this simple python script with a single click
+Find vaccine availablity(18-43 yrs) in your district using this simple python script with a single click
 
 <h2>PREREQUISITE</h2><br />
 
@@ -28,4 +28,11 @@ Module Installation Instructions<br />
 	<li>Use dist_id = [294,265,276] for bengaluru</li>
 </ul>
 
+<h2>NOTE</h2><br />
+<ul>
+	<li>District-ID folder will be updated soon for all the states</li>
+</ul>
 
+<h3>This project is based on CoWin API</h3>
+<h3>The National Health Authority (NHA) has opened up the APIs for vaccine</h3>
+<h3>https://apisetu.gov.in/public/api/cowin</h3>
