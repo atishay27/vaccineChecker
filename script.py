@@ -5,10 +5,6 @@ import pytz
 import random 
 from collections import OrderedDict
 
-#INSTALL pytz,requests module before running this script (Commands Given Below)
-#pip install requests
-#pip install pytz
-
 headers_list = [
     # Chrome 90 Windows
     {
